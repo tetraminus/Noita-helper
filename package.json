@@ -1,0 +1,22 @@
+{
+  "name": "noita-helper",
+  "version": "1.0.0",
+  "description": "noita helper overlay",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tetraminus/Noita-helper.git"
+  },
+  "author": "tetraminus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tetraminus/Noita-helper/issues"
+  },
+  "homepage": "https://github.com/tetraminus/Noita-helper#readme",
+  "devDependencies": {
+    "electron": "^17.1.0"
+  }
+}
